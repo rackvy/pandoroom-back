@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# Build output directories
+dist/
+build/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
